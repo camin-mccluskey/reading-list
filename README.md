@@ -62,8 +62,7 @@
 
 - [x] [Hackers & Painters: Big Ideas from the Computing Age - Paul Graham](https://www.amazon.co.uk/Hackers-Painters-Computer-Jun-25-2010-Paperback/dp/B00BOLBKYY/ref=sr_1_2?crid=2XHFZG9Q1YT4Y&dchild=1&keywords=hackers+and+painters&qid=1592327444&sprefix=hackers+and+pa%2Caps%2C137&sr=8-2)
 - [x] [The Organized Mind: Thinking Straight in the Age of Information Overload - Daniel Levtin](https://www.amazon.co.uk/Organized-Mind-Thinking-Straight-Information/dp/0241965780/ref=sr_1_3?crid=3O88Z4YNOTS9L&dchild=1&keywords=the+organized+mind&qid=1592327369&sprefix=the+organized+m%2Caps%2C131&sr=8-3)
-- [x] [The Brain: The Story of You - David Eagleman](https://www.amazon.co.uk/Brain-Story-You-David-
-Eagleman/dp/1782116613/ref=sr_1_1?dchild=1&keywords=david+eagleman&qid=1592172805&s=books&sr=1-1)
+- [x] [The Brain: The Story of You - David Eagleman](https://www.amazon.co.uk/Brain-Story-You-David-Eagleman/dp/1782116613/ref=sr_1_1?dchild=1&keywords=david+eagleman&qid=1592172805&s=books&sr=1-1)
 - [x] [Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins - Garry Kasparov & Mig Greengard](https://www.amazon.co.uk/dp/1473653517/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [x] [NeuroTribes: The Legacy of Autism and How to Think Smarter About People Who Think Differently - Steve Silberman](https://www.amazon.co.uk/NeuroTribes-Legacy-Autism-Smarter-Differently/dp/1760113646/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - [x] [Head First Design Patterns - Eric Freeman, Elisabeth Robson, Bert Bates & Katy Sierra](https://www.amazon.co.uk/Head-First-Design-Patterns-Freeman/dp/0596007124/ref=sr_1_1?crid=1EWVPX3LFIYJJ&dchild=1&keywords=head+first+design+patterns&qid=1592169518&sprefix=head+first+des%2Caps%2C136&sr=8-1)
