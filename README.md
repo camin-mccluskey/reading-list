@@ -3,7 +3,6 @@
 ## Reading Now
 
 - [ ] [Effective Java (2nd Edition) - Joshua Block](https://www.amazon.co.uk/Effective-Java-Second-Joshua-Bloch/dp/0321356683)
-- [ ] [Grit - Angela Duckworth](https://www.amazon.co.uk/Grit-passion-resilience-secrets-success/dp/1785040200/ref=sr_1_1?crid=3TB0E26OFUBI0&dchild=1&keywords=grit+angela+duckworth&qid=1592169330&s=books&sprefix=Grit%2Cstripbooks%2C133&sr=1-1)
 
 ## Will Read
 
@@ -62,6 +61,7 @@
 
 ### Non-Fiction
 
+- [x] [Grit - Angela Duckworth](https://www.amazon.co.uk/Grit-passion-resilience-secrets-success/dp/1785040200/ref=sr_1_1?crid=3TB0E26OFUBI0&dchild=1&keywords=grit+angela+duckworth&qid=1592169330&s=books&sprefix=Grit%2Cstripbooks%2C133&sr=1-1)
 - [x] [Hackers & Painters: Big Ideas from the Computing Age - Paul Graham](https://www.amazon.co.uk/Hackers-Painters-Computer-Jun-25-2010-Paperback/dp/B00BOLBKYY/ref=sr_1_2?crid=2XHFZG9Q1YT4Y&dchild=1&keywords=hackers+and+painters&qid=1592327444&sprefix=hackers+and+pa%2Caps%2C137&sr=8-2)
 - [x] [The Organized Mind: Thinking Straight in the Age of Information Overload - Daniel Levtin](https://www.amazon.co.uk/Organized-Mind-Thinking-Straight-Information/dp/0241965780/ref=sr_1_3?crid=3O88Z4YNOTS9L&dchild=1&keywords=the+organized+mind&qid=1592327369&sprefix=the+organized+m%2Caps%2C131&sr=8-3)
 - [x] [The Brain: The Story of You - David Eagleman](https://www.amazon.co.uk/Brain-Story-You-David-Eagleman/dp/1782116613/ref=sr_1_1?dchild=1&keywords=david+eagleman&qid=1592172805&s=books&sr=1-1)
