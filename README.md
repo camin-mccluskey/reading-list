@@ -2,7 +2,7 @@
 
 ## Reading Now
 
-- [ ] [Effective Java (2nd Edition) - Joshua Block](https://www.amazon.co.uk/Effective-Java-Second-Joshua-Bloch/dp/0321356683)
+- [ ] [The Art of Learning: An Inner Journey to Optimal Performance - Josh Waitzkin](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465/ref=sr_1_3?crid=LRP061XIBJIW&dchild=1&keywords=the+art+of+learning&qid=1592173455&s=books&sprefix=the+art+of+learning%2Cstripbooks%2C-1&sr=1-3)
 
 ## Will Read
 
@@ -32,7 +32,6 @@
 - [ ] [Blueprint: How DNA Makes Us Who We Are - Robert Plomin](https://www.amazon.co.uk/Blueprint-How-DNA-Makes-Who/dp/0241282071/ref=sr_1_1?crid=30BX5VZ24O7IA&dchild=1&keywords=blueprint+robert+plomin&qid=1592173268&s=books&sprefix=blueprint+ro%2Cstripbooks%2C143&sr=1-1)
 - [ ] [Thinking in Bets - Annie Duke](https://www.amazon.co.uk/Thinking-Bets-Annie-Duke/dp/0735216371/ref=sr_1_2?crid=GE6K5KHP2PUH&dchild=1&keywords=thinking+in+bets&qid=1592173307&s=books&sprefix=Thinking+in+be%2Cstripbooks%2C135&sr=1-2)
 - [ ] [Hiking with Nietzsche: Becoming Who You Are - John Kaag](https://www.amazon.co.uk/Hiking-Nietzsche-Becoming-Who-You/dp/1783784954/ref=sr_1_1?crid=1KJ1V81QH2YS7&dchild=1&keywords=hiking+with+nietzsche&qid=1592173348&s=books&sprefix=hiking+with%2Cstripbooks%2C133&sr=1-1)
-- [ ] [The Art of Learning: An Inner Journey to Optimal Performance - Josh Waitzkin](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465/ref=sr_1_3?crid=LRP061XIBJIW&dchild=1&keywords=the+art+of+learning&qid=1592173455&s=books&sprefix=the+art+of+learning%2Cstripbooks%2C-1&sr=1-3)
 - [ ] [Surrounded By Idiots: The Four Types of Human Behaviour (or, How to Understand Those Who Cannot Be Understood) - Thomas Erikson](https://www.amazon.co.uk/Surrounded-Idiots-Behaviour-Understand-Understood/dp/1785042181/ref=sr_1_1?crid=2YNB3MTFY9QGD&dchild=1&keywords=surrounded+by+idiots&qid=1592327278&sprefix=surrounded+by+%2Caps%2C140&sr=8-1)
 - [ ] [Blink: The Power of Thinking Without Thinking - Malcolm Gladwell](https://www.amazon.co.uk/Blink-Power-Thinking-Without/dp/0141014598/ref=sr_1_1?crid=2KEK75GSLMEJM&dchild=1&keywords=blink&qid=1592173645&s=books&sprefix=blink%2Cstripbooks%2C139&sr=1-1)
 - [ ] [Boomerang: Travels in the New Third World - Michael Lewis](https://www.amazon.co.uk/Boomerang-Travels-New-Third-World/dp/0393343448/ref=pd_sbs_14_16?_encoding=UTF8&pd_rd_i=0393343448&pd_rd_r=6a94ce19-9ce0-4b85-9c57-b16c28fd07ae&pd_rd_w=XAODJ&pd_rd_wg=Bf0VR&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=ATA3TSMXWGZEPF2B4NWG&psc=1&refRID=ATA3TSMXWGZEPF2B4NWG)
@@ -62,6 +61,7 @@
 ### Non-Fiction
 
 - [x] [Grit - Angela Duckworth](https://www.amazon.co.uk/Grit-passion-resilience-secrets-success/dp/1785040200/ref=sr_1_1?crid=3TB0E26OFUBI0&dchild=1&keywords=grit+angela+duckworth&qid=1592169330&s=books&sprefix=Grit%2Cstripbooks%2C133&sr=1-1)
+- [x] [Effective Java (2nd Edition) - Joshua Block](https://www.amazon.co.uk/Effective-Java-Second-Joshua-Bloch/dp/0321356683)
 - [x] [Hackers & Painters: Big Ideas from the Computing Age - Paul Graham](https://www.amazon.co.uk/Hackers-Painters-Computer-Jun-25-2010-Paperback/dp/B00BOLBKYY/ref=sr_1_2?crid=2XHFZG9Q1YT4Y&dchild=1&keywords=hackers+and+painters&qid=1592327444&sprefix=hackers+and+pa%2Caps%2C137&sr=8-2)
 - [x] [The Organized Mind: Thinking Straight in the Age of Information Overload - Daniel Levtin](https://www.amazon.co.uk/Organized-Mind-Thinking-Straight-Information/dp/0241965780/ref=sr_1_3?crid=3O88Z4YNOTS9L&dchild=1&keywords=the+organized+mind&qid=1592327369&sprefix=the+organized+m%2Caps%2C131&sr=8-3)
 - [x] [The Brain: The Story of You - David Eagleman](https://www.amazon.co.uk/Brain-Story-You-David-Eagleman/dp/1782116613/ref=sr_1_1?dchild=1&keywords=david+eagleman&qid=1592172805&s=books&sr=1-1)
