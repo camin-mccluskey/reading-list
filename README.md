@@ -13,6 +13,7 @@
 - [ ] [Clean Architecture: A Craftsman's Guide to Software Structure and Design - Martin Fowler](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_3?dchild=1&keywords=evolutionary+architecture&qid=1592174110&s=books&sr=1-3)
 - [ ] [Release It! Design and Deploy Production-Ready Software - Michael T. Nygard](https://www.amazon.co.uk/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ref=sr_1_1?crid=2DOEA5FYEQK5L&dchild=1&keywords=release+it&qid=1592173888&s=books&sprefix=release+it%2Cstripbooks%2C134&sr=1-1)
 - [ ] [Artificial Intelligence: A Modern Approach - Russel Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
+- [ ] [Beyond Good and Evil - Friedrich Nietzsche](https://www.amazon.co.uk/Beyond-Good-Evil-Penguin-Classics/dp/014044923X/ref=sr_1_1?crid=2PI5JLO6MKHJT&dchild=1&keywords=beyond+good+and+evil&qid=1593719790&s=books&sprefix=beyond+%2Cdigital-text%2C139&sr=1-1)
 - [ ] [Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?crid=9FA4HLN0QLNF&dchild=1&keywords=domain+driven+design&qid=1592173932&s=books&sprefix=Domain+%2Cstripbooks%2C138&sr=1-1)
 - [ ] [Building Evolutionary Architectures - Neal Ford, Rebecca Parsons & Patrick Kua](https://www.amazon.co.uk/Building-Evolutionary-Architectures-Neal-Ford/dp/1491986360/ref=sr_1_1?dchild=1&keywords=evolutionary+architecture&qid=1592174044&s=books&sr=1-1)
 - [ ] [21 Lessons for the 21st Century - Yuval Noah Harari](https://www.amazon.co.uk/Lessons-21st-Century-Yuval-Harari/dp/1784708283/ref=pd_bxgy_img_3/262-1432303-7573233?_encoding=UTF8&pd_rd_i=1784708283&pd_rd_r=c769e5a9-ccb7-4f2f-91cb-8cdb35405c94&pd_rd_w=K3suk&pd_rd_wg=KEOmu&pf_rd_p=106f838b-b7d1-46e9-83e0-f70facc857bf&pf_rd_r=JF79DRFK5XEA1866SZGJ&psc=1&refRID=JF79DRFK5XEA1866SZGJ)
@@ -55,6 +56,7 @@
 - [ ] [The Broom of the System - David Foster Wallace](https://www.amazon.co.uk/Broom-System-David-Foster-Wallace/dp/0349109230/ref=sr_1_1?crid=3OC4R32SJ9PGB&dchild=1&keywords=the+broom+of+the+system&qid=1592173078&s=books&sprefix=the+broom+in+the+syst%2Cstripbooks%2C145&sr=1-1)
 - [ ] [The Pale King - David Foster Wallace](https://www.amazon.co.uk/Pale-King-David-Foster-Wallace/dp/0141046732/ref=sr_1_1?crid=3N79411XTW2KP&dchild=1&keywords=the+pale+king&qid=1592173110&s=books&sprefix=the+pale+king%2Cstripbooks%2C135&sr=1-1)
 - [ ] [The Beautiful and The Damned - F. Scott Fitzgerald](https://www.amazon.co.uk/Beautiful-Penguin-Fitzgerald-Hardback-Collection/dp/0141194073/ref=sr_1_3?crid=31MQATJUDWIIK&dchild=1&keywords=the+beautiful+and+the+damned&qid=1592173756&s=books&sprefix=the+beautiful+and+%2Cstripbooks%2C134&sr=1-3)
+- [ ] [The Hitchhiker's Guide to the Galaxy - Douglas Adams](https://www.amazon.co.uk/Hitchhikers-Guide-Galaxy-Omnibus-Trilogy/dp/1509852794/ref=sr_1_2?crid=19WJZXJ9DPPYN&dchild=1&keywords=the+hitchhiker%27s+guide+to+the+galaxy&qid=1593719940&sprefix=the+hitchhiker%27s+guide+to+the+galaxy+kindle%2Caps%2C133&sr=8-2)
 
 ## Have Read
 
