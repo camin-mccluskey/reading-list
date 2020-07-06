@@ -7,6 +7,8 @@
 ## Will Read
 
 ### Non-Fiction
+- [ ] [Human Compatible: AI and the Problem of Control - Stuart Russel](https://www.amazon.co.uk/Human-Compatible-AI-Problem-Control/dp/0141987502/ref=sr_1_1?crid=EE6U4OK4BB35&dchild=1&keywords=human+compatible&qid=1594029210&sprefix=human+com%2Caps%2C181&sr=8-1)
+- [ ] [The Creativity Code - Marcus Du Sautoy](https://www.amazon.co.uk/Creativity-Code-Marcus-du-Sautoy/dp/0008288194/ref=sr_1_2?crid=3GUSTNXV2FZ6P&dchild=1&keywords=the+creativity+code&qid=1594029339&sprefix=the+creativity+%2Caps%2C-1&sr=8-2)
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
 - [ ] [The Precipice - Toby Ord](https://www.amazon.co.uk/Precipice-Existential-Risk-Future-Humanity/dp/1526600218/ref=sr_1_1?crid=1VI4LTVTGS8O2&dchild=1&keywords=the+precipice&qid=1592173819&s=books&sprefix=the+preci%2Cstripbooks%2C141&sr=1-1)
 - [ ] [Against the Gods: The Remarkable Story of Risk - Peter L. Bernstein](https://www.amazon.co.uk/Against-Gods-Remarkable-Story-Risk-ebook/dp/B00BV6RTUG/ref=sr_1_1?crid=2K4OXC8S509KR&dchild=1&keywords=against+the+gods+the+remarkable+story+of+risk&qid=1592173853&s=books&sprefix=against+the+god%2Cstripbooks%2C133&sr=1-1)
