@@ -1,4 +1,3 @@
-# Reading List
 
 ## Reading Now
 
