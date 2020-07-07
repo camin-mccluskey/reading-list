@@ -1,11 +1,12 @@
 
 ## Reading Now
 
-- [ ] [The Art of Learning: An Inner Journey to Optimal Performance - Josh Waitzkin](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465/ref=sr_1_3?crid=LRP061XIBJIW&dchild=1&keywords=the+art+of+learning&qid=1592173455&s=books&sprefix=the+art+of+learning%2Cstripbooks%2C-1&sr=1-3)
+- [ ] [Beyond Good and Evil - Friedrich Nietzsche](https://www.amazon.co.uk/Beyond-Good-Evil-Penguin-Classics/dp/014044923X/ref=sr_1_1?crid=2PI5JLO6MKHJT&dchild=1&keywords=beyond+good+and+evil&qid=1593719790&s=books&sprefix=beyond+%2Cdigital-text%2C139&sr=1-1)
 
 ## Will Read
 
 ### Non-Fiction
+- [ ] [The Art of Learning: An Inner Journey to Optimal Performance - Josh Waitzkin](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465/ref=sr_1_3?crid=LRP061XIBJIW&dchild=1&keywords=the+art+of+learning&qid=1592173455&s=books&sprefix=the+art+of+learning%2Cstripbooks%2C-1&sr=1-3)
 - [ ] [Human Compatible: AI and the Problem of Control - Stuart Russel](https://www.amazon.co.uk/Human-Compatible-AI-Problem-Control/dp/0141987502/ref=sr_1_1?crid=EE6U4OK4BB35&dchild=1&keywords=human+compatible&qid=1594029210&sprefix=human+com%2Caps%2C181&sr=8-1)
 - [ ] [The Creativity Code - Marcus Du Sautoy](https://www.amazon.co.uk/Creativity-Code-Marcus-du-Sautoy/dp/0008288194/ref=sr_1_2?crid=3GUSTNXV2FZ6P&dchild=1&keywords=the+creativity+code&qid=1594029339&sprefix=the+creativity+%2Caps%2C-1&sr=8-2)
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
@@ -14,7 +15,6 @@
 - [ ] [Clean Architecture: A Craftsman's Guide to Software Structure and Design - Martin Fowler](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_3?dchild=1&keywords=evolutionary+architecture&qid=1592174110&s=books&sr=1-3)
 - [ ] [Release It! Design and Deploy Production-Ready Software - Michael T. Nygard](https://www.amazon.co.uk/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ref=sr_1_1?crid=2DOEA5FYEQK5L&dchild=1&keywords=release+it&qid=1592173888&s=books&sprefix=release+it%2Cstripbooks%2C134&sr=1-1)
 - [ ] [Artificial Intelligence: A Modern Approach - Russel Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
-- [ ] [Beyond Good and Evil - Friedrich Nietzsche](https://www.amazon.co.uk/Beyond-Good-Evil-Penguin-Classics/dp/014044923X/ref=sr_1_1?crid=2PI5JLO6MKHJT&dchild=1&keywords=beyond+good+and+evil&qid=1593719790&s=books&sprefix=beyond+%2Cdigital-text%2C139&sr=1-1)
 - [ ] [Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?crid=9FA4HLN0QLNF&dchild=1&keywords=domain+driven+design&qid=1592173932&s=books&sprefix=Domain+%2Cstripbooks%2C138&sr=1-1)
 - [ ] [Building Evolutionary Architectures - Neal Ford, Rebecca Parsons & Patrick Kua](https://www.amazon.co.uk/Building-Evolutionary-Architectures-Neal-Ford/dp/1491986360/ref=sr_1_1?dchild=1&keywords=evolutionary+architecture&qid=1592174044&s=books&sr=1-1)
 - [ ] [21 Lessons for the 21st Century - Yuval Noah Harari](https://www.amazon.co.uk/Lessons-21st-Century-Yuval-Harari/dp/1784708283/ref=pd_bxgy_img_3/262-1432303-7573233?_encoding=UTF8&pd_rd_i=1784708283&pd_rd_r=c769e5a9-ccb7-4f2f-91cb-8cdb35405c94&pd_rd_w=K3suk&pd_rd_wg=KEOmu&pf_rd_p=106f838b-b7d1-46e9-83e0-f70facc857bf&pf_rd_r=JF79DRFK5XEA1866SZGJ&psc=1&refRID=JF79DRFK5XEA1866SZGJ)
