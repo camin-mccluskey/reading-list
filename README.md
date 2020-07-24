@@ -49,6 +49,8 @@
 - [ ] [Introduction to Quantum Mechanics: 2nd Edition - David J. Griffiths](https://www.amazon.co.uk/Introduction-Quantum-Mechanics-David-Griffiths/dp/B007ZUK4TU/ref=sr_1_2?crid=2X1VTK4DORX0C&dchild=1&keywords=introduction+to+quantum+mechanics+2nd+edition&qid=1592328033&sprefix=introduction+to+quant%2Caps%2C141&sr=8-2)
 - [ ] [Against the Odds: An Autobiography - James Dyson](https://www.amazon.co.uk/Against-Odds-Autobiography-Business-Icons/dp/1587990148/ref=sr_1_2?crid=1P40J4CLB2IDM&dchild=1&keywords=james+dyson+autobiography&qid=1592329054&s=books&sprefix=james+dyson%2Cstripbooks%2C137&sr=1-2)
 - [ ] [The Meaning of the 21st Century: A Vital Blueprint For Ensuring Our Future - James Martin](https://www.amazon.co.uk/Meaning-21st-Century-Blueprint-Ensuring/dp/190391986X/ref=sr_1_1?crid=14PTSIF2WFA3O&dchild=1&keywords=the+meaning+of+the+21st+century&qid=1592329241&sprefix=the+meaning+of+the+21%2Caps%2C136&sr=8-1)
+- [ ] [Foundations of Programming Languages - Kent D. Lee](https://www.amazon.com/Foundations-Programming-Languages-Undergraduate-Computer/dp/3319133136)
+- [ ] [Guide to Competitive Programming: Learning and Improving Algorithms Through Contests - Antti Laaksonen](https://www.amazon.com/Guide-Competitive-Programming-Algorithms-Undergraduate/dp/3030393569/ref=sr_1_1?crid=ZP5JY1DLPQW8&dchild=1&keywords=guide+to+competitive+programming&qid=1595605966&s=books&sprefix=Guide+to+co%2Cstripbooks-intl-ship%2C203&sr=1-1)
 
 ### Fiction
 - [ ] [Seveneves - Neal Stephenson](https://www.amazon.co.uk/Seveneves-Neal-Stephenson/dp/0008132542/ref=sr_1_1?crid=W8MPFWDTN8TY&dchild=1&keywords=seveneves&qid=1592241354&s=books&sprefix=seven+ev%2Cstripbooks%2C137&sr=1-1)
