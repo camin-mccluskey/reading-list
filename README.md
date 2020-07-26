@@ -1,7 +1,7 @@
 
 ## Reading Now
 
-- [ ] [Beyond Good and Evil - Friedrich Nietzsche](https://www.amazon.co.uk/Beyond-Good-Evil-Penguin-Classics/dp/014044923X/ref=sr_1_1?crid=2PI5JLO6MKHJT&dchild=1&keywords=beyond+good+and+evil&qid=1593719790&s=books&sprefix=beyond+%2Cdigital-text%2C139&sr=1-1)
+- [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
 
 ## Will Read
 
@@ -9,7 +9,6 @@
 - [ ] [The Art of Learning: An Inner Journey to Optimal Performance - Josh Waitzkin](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465/ref=sr_1_3?crid=LRP061XIBJIW&dchild=1&keywords=the+art+of+learning&qid=1592173455&s=books&sprefix=the+art+of+learning%2Cstripbooks%2C-1&sr=1-3)
 - [ ] [Human Compatible: AI and the Problem of Control - Stuart Russel](https://www.amazon.co.uk/Human-Compatible-AI-Problem-Control/dp/0141987502/ref=sr_1_1?crid=EE6U4OK4BB35&dchild=1&keywords=human+compatible&qid=1594029210&sprefix=human+com%2Caps%2C181&sr=8-1)
 - [ ] [The Creativity Code - Marcus Du Sautoy](https://www.amazon.co.uk/Creativity-Code-Marcus-du-Sautoy/dp/0008288194/ref=sr_1_2?crid=3GUSTNXV2FZ6P&dchild=1&keywords=the+creativity+code&qid=1594029339&sprefix=the+creativity+%2Caps%2C-1&sr=8-2)
-- [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
 - [ ] [The Precipice - Toby Ord](https://www.amazon.co.uk/Precipice-Existential-Risk-Future-Humanity/dp/1526600218/ref=sr_1_1?crid=1VI4LTVTGS8O2&dchild=1&keywords=the+precipice&qid=1592173819&s=books&sprefix=the+preci%2Cstripbooks%2C141&sr=1-1)
 - [ ] [Against the Gods: The Remarkable Story of Risk - Peter L. Bernstein](https://www.amazon.co.uk/Against-Gods-Remarkable-Story-Risk-ebook/dp/B00BV6RTUG/ref=sr_1_1?crid=2K4OXC8S509KR&dchild=1&keywords=against+the+gods+the+remarkable+story+of+risk&qid=1592173853&s=books&sprefix=against+the+god%2Cstripbooks%2C133&sr=1-1)
 - [ ] [Clean Architecture: A Craftsman's Guide to Software Structure and Design - Martin Fowler](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_3?dchild=1&keywords=evolutionary+architecture&qid=1592174110&s=books&sr=1-3)
@@ -51,6 +50,7 @@
 - [ ] [The Meaning of the 21st Century: A Vital Blueprint For Ensuring Our Future - James Martin](https://www.amazon.co.uk/Meaning-21st-Century-Blueprint-Ensuring/dp/190391986X/ref=sr_1_1?crid=14PTSIF2WFA3O&dchild=1&keywords=the+meaning+of+the+21st+century&qid=1592329241&sprefix=the+meaning+of+the+21%2Caps%2C136&sr=8-1)
 - [ ] [Foundations of Programming Languages - Kent D. Lee](https://www.amazon.com/Foundations-Programming-Languages-Undergraduate-Computer/dp/3319133136)
 - [ ] [Guide to Competitive Programming: Learning and Improving Algorithms Through Contests - Antti Laaksonen](https://www.amazon.com/Guide-Competitive-Programming-Algorithms-Undergraduate/dp/3030393569/ref=sr_1_1?crid=ZP5JY1DLPQW8&dchild=1&keywords=guide+to+competitive+programming&qid=1595605966&s=books&sprefix=Guide+to+co%2Cstripbooks-intl-ship%2C203&sr=1-1)
+- [ ] [Beyond Good and Evil - Friedrich Nietzsche](https://www.amazon.co.uk/Beyond-Good-Evil-Penguin-Classics/dp/014044923X/ref=sr_1_1?crid=2PI5JLO6MKHJT&dchild=1&keywords=beyond+good+and+evil&qid=1593719790&s=books&sprefix=beyond+%2Cdigital-text%2C139&sr=1-1)
 
 ### Fiction
 - [ ] [Seveneves - Neal Stephenson](https://www.amazon.co.uk/Seveneves-Neal-Stephenson/dp/0008132542/ref=sr_1_1?crid=W8MPFWDTN8TY&dchild=1&keywords=seveneves&qid=1592241354&s=books&sprefix=seven+ev%2Cstripbooks%2C137&sr=1-1)
