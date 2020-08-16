@@ -2,10 +2,19 @@
 ## Reading Now
 
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
+- [ ] [Superiror: The Return of Race Science - Angela Saini](https://www.amazon.co.uk/Superior-Return-Science-Angela-Saini/dp/0008293864/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585347&sr=8-1) 
 
 ## Will Read
 
 ### Non-Fiction
+
+- [ ] [The Body: A Guide for Occupants - Bill Bryson](https://www.amazon.co.uk/Body-Guide-Occupants-Bill-Bryson/dp/085752240X/ref=sr_1_1?crid=1L96ZXJQN7INB&dchild=1&keywords=the+body+bill+bryson&qid=1597585904&sprefix=the+body+%2Caps%2C142&sr=8-1)
+- [ ] [Superminds: How Hyperconnectivity is Changing the Way we Solve Problems - Thomas W. Malone](https://www.amazon.co.uk/Superminds-Surprising-Computers-Thinking-Together/dp/1786075687/ref=sr_1_2?dchild=1&keywords=superminds&qid=1597585841&sr=8-2)
+- [ ] [The Deep Learning Revolution - Terraence J. Sejnowski](https://www.amazon.co.uk/Deep-Learning-Revolution-MIT-Press/dp/026203803X/ref=sr_1_1?crid=3N7AMZN1J2LXL&dchild=1&keywords=the+deep+learning+revolution&qid=1597585807&sprefix=the+deep+learni%2Caps%2C142&sr=8-1)
+- [ ] [Our Final Invention: Artifical Intelligence and the End of the Human Era - James Barrat](https://www.amazon.co.uk/gp/product/1250058783/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+- [ ] [THe Language of Life: DNA and the Revolution in Personalised Medicine - Francia S. Collins](https://www.amazon.co.uk/Language-Life-Revolution-Personalized-Medicine/dp/0061733180/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585664&sr=8-1)
+- [ ] [The Personalised Medicine Revolution - Pieter Cullis](https://www.amazon.co.uk/Personalised-Medicine-Revolution-Diagnosing-Treating/dp/1908643951/ref=sr_1_1?dchild=1&keywords=the+personalised+medical+revolution&qid=1597585592&sr=8-1)
+- [ ] [The Industries of the Future - Alec Ross](amazon.co.uk/Industries-Future-Alec-Ross/dp/1471135268/ref=sr_1_1?crid=3DT4QYE01E0Q7&dchild=1&keywords=the+industries+of+the+future&qid=1597585512&sprefix=the+industies+of+%2Caps%2C134&sr=8-1)
 - [ ] [The Art of Learning: An Inner Journey to Optimal Performance - Josh Waitzkin](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465/ref=sr_1_3?crid=LRP061XIBJIW&dchild=1&keywords=the+art+of+learning&qid=1592173455&s=books&sprefix=the+art+of+learning%2Cstripbooks%2C-1&sr=1-3)
 - [ ] [Human Compatible: AI and the Problem of Control - Stuart Russel](https://www.amazon.co.uk/Human-Compatible-AI-Problem-Control/dp/0141987502/ref=sr_1_1?crid=EE6U4OK4BB35&dchild=1&keywords=human+compatible&qid=1594029210&sprefix=human+com%2Caps%2C181&sr=8-1)
 - [ ] [The Creativity Code - Marcus Du Sautoy](https://www.amazon.co.uk/Creativity-Code-Marcus-du-Sautoy/dp/0008288194/ref=sr_1_2?crid=3GUSTNXV2FZ6P&dchild=1&keywords=the+creativity+code&qid=1594029339&sprefix=the+creativity+%2Caps%2C-1&sr=8-2)
