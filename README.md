@@ -2,7 +2,7 @@
 ## Reading Now
 
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
-- [ ] [Superiror: The Return of Race Science - Angela Saini](https://www.amazon.co.uk/Superior-Return-Science-Angela-Saini/dp/0008293864/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585347&sr=8-1) 
+- [ ] [Superior: The Return of Race Science - Angela Saini](https://www.amazon.co.uk/Superior-Return-Science-Angela-Saini/dp/0008293864/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585347&sr=8-1) 
 
 ## Will Read
 
