@@ -2,7 +2,6 @@
 ## Reading Now
 
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
-- [ ] [Superior: The Return of Race Science - Angela Saini](https://www.amazon.co.uk/Superior-Return-Science-Angela-Saini/dp/0008293864/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585347&sr=8-1) 
 
 ## Will Read
 
@@ -74,6 +73,7 @@
 
 ### Non-Fiction
 
+- [x] [Superior: The Return of Race Science - Angela Saini](https://www.amazon.co.uk/Superior-Return-Science-Angela-Saini/dp/0008293864/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585347&sr=8-1)
 - [x] [Grit - Angela Duckworth](https://www.amazon.co.uk/Grit-passion-resilience-secrets-success/dp/1785040200/ref=sr_1_1?crid=3TB0E26OFUBI0&dchild=1&keywords=grit+angela+duckworth&qid=1592169330&s=books&sprefix=Grit%2Cstripbooks%2C133&sr=1-1)
 - [x] [Effective Java (2nd Edition) - Joshua Block](https://www.amazon.co.uk/Effective-Java-Second-Joshua-Bloch/dp/0321356683)
 - [x] [Hackers & Painters: Big Ideas from the Computing Age - Paul Graham](https://www.amazon.co.uk/Hackers-Painters-Computer-Jun-25-2010-Paperback/dp/B00BOLBKYY/ref=sr_1_2?crid=2XHFZG9Q1YT4Y&dchild=1&keywords=hackers+and+painters&qid=1592327444&sprefix=hackers+and+pa%2Caps%2C137&sr=8-2)
