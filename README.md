@@ -2,6 +2,7 @@
 ## Reading Now
 
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
+- [ ] [Blueprint: How DNA Makes Us Who We Are - Robert Plomin](https://www.amazon.co.uk/Blueprint-How-DNA-Makes-Who/dp/0241282071/ref=sr_1_1?crid=30BX5VZ24O7IA&dchild=1&keywords=blueprint+robert+plomin&qid=1592173268&s=books&sprefix=blueprint+ro%2Cstripbooks%2C143&sr=1-1)
 
 ## Will Read
 
@@ -38,7 +39,6 @@
 - [ ] [Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think - Hans Rosling](https://www.amazon.co.uk/Factfulness-Reasons-Wrong-Things-Better/dp/147363749X/ref=pd_sbs_14_36?_encoding=UTF8&pd_rd_i=147363749X&pd_rd_r=d57e7bb6-f575-49fc-a79b-22eeaa2284f2&pd_rd_w=Pwisq&pd_rd_wg=RGEqb&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=R94A9A7B22HVKXDD7JGA&psc=1&refRID=R94A9A7B22HVKXDD7JGA)
 - [ ] [Programmer's Guide to the Brain: With Examples in Python - Rob Vermiller](https://www.amazon.co.uk/Programmers-Guide-Brain-Examples-Python/dp/1483400018/ref=sr_1_1?dchild=1&keywords=A+programmers+guide+to+the+brain&qid=1592172654&s=books&sr=1-1)
 - [ ] [Originals: How Non-conformists Change the World - Adam Grant](https://www.amazon.co.uk/Originals-How-Non-conformists-Change-World/dp/0753556995/ref=sr_1_1?crid=2T3RA2K03JJCB&dchild=1&keywords=originals+adam+grant&qid=1592173208&s=books&sprefix=originals+%2Cstripbooks%2C133&sr=1-1)
-- [ ] [Blueprint: How DNA Makes Us Who We Are - Robert Plomin](https://www.amazon.co.uk/Blueprint-How-DNA-Makes-Who/dp/0241282071/ref=sr_1_1?crid=30BX5VZ24O7IA&dchild=1&keywords=blueprint+robert+plomin&qid=1592173268&s=books&sprefix=blueprint+ro%2Cstripbooks%2C143&sr=1-1)
 - [ ] [Thinking in Bets - Annie Duke](https://www.amazon.co.uk/Thinking-Bets-Annie-Duke/dp/0735216371/ref=sr_1_2?crid=GE6K5KHP2PUH&dchild=1&keywords=thinking+in+bets&qid=1592173307&s=books&sprefix=Thinking+in+be%2Cstripbooks%2C135&sr=1-2)
 - [ ] [Hiking with Nietzsche: Becoming Who You Are - John Kaag](https://www.amazon.co.uk/Hiking-Nietzsche-Becoming-Who-You/dp/1783784954/ref=sr_1_1?crid=1KJ1V81QH2YS7&dchild=1&keywords=hiking+with+nietzsche&qid=1592173348&s=books&sprefix=hiking+with%2Cstripbooks%2C133&sr=1-1)
 - [ ] [Surrounded By Idiots: The Four Types of Human Behaviour (or, How to Understand Those Who Cannot Be Understood) - Thomas Erikson](https://www.amazon.co.uk/Surrounded-Idiots-Behaviour-Understand-Understood/dp/1785042181/ref=sr_1_1?crid=2YNB3MTFY9QGD&dchild=1&keywords=surrounded+by+idiots&qid=1592327278&sprefix=surrounded+by+%2Caps%2C140&sr=8-1)
