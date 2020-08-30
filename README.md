@@ -8,6 +8,8 @@
 
 ### Non-Fiction
 
+- [ ] [Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again - Eric Topal](https://www.amazon.co.uk/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638/ref=sr_1_1?crid=XD4ATKWJ4L3C&dchild=1&keywords=deep+medicine&qid=1598802436&sprefix=deep+medi%2Caps%2C135&sr=8-1)
+- [ ] [The Creative Destruction of Medicine: How the Digital Revolution Will Create Better Healthcare - Eric Topal](https://www.amazon.co.uk/Creative-Destruction-Medicine-Revised-Expanded/dp/0465061834/ref=sr_1_1?crid=2S28GR95ANNCP&dchild=1&keywords=the+creative+destruction+of+medicine&qid=1598802590&s=books&sprefix=The+creative+des%2Cstripbooks%2C135&sr=1-1)
 - [ ] [The Body: A Guide for Occupants - Bill Bryson](https://www.amazon.co.uk/Body-Guide-Occupants-Bill-Bryson/dp/085752240X/ref=sr_1_1?crid=1L96ZXJQN7INB&dchild=1&keywords=the+body+bill+bryson&qid=1597585904&sprefix=the+body+%2Caps%2C142&sr=8-1)
 - [ ] [Superminds: How Hyperconnectivity is Changing the Way we Solve Problems - Thomas W. Malone](https://www.amazon.co.uk/Superminds-Surprising-Computers-Thinking-Together/dp/1786075687/ref=sr_1_2?dchild=1&keywords=superminds&qid=1597585841&sr=8-2)
 - [ ] [The Deep Learning Revolution - Terraence J. Sejnowski](https://www.amazon.co.uk/Deep-Learning-Revolution-MIT-Press/dp/026203803X/ref=sr_1_1?crid=3N7AMZN1J2LXL&dchild=1&keywords=the+deep+learning+revolution&qid=1597585807&sprefix=the+deep+learni%2Caps%2C142&sr=8-1)
