@@ -2,19 +2,24 @@
 ## Reading Now
 
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
-- [ ] [Blueprint: How DNA Makes Us Who We Are - Robert Plomin](https://www.amazon.co.uk/Blueprint-How-DNA-Makes-Who/dp/0241282071/ref=sr_1_1?crid=30BX5VZ24O7IA&dchild=1&keywords=blueprint+robert+plomin&qid=1592173268&s=books&sprefix=blueprint+ro%2Cstripbooks%2C143&sr=1-1)
+- [ ] [The Language of Life: DNA and the Revolution in Personalised Medicine - Francia S. Collins](https://www.amazon.co.uk/Language-Life-Revolution-Personalized-Medicine/dp/0061733180/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585664&sr=8-1)
 
 ## Will Read
 
 ### Non-Fiction
 
+- [ ] [Limitless: Leadership that Endures - Ajaz Ahmed](https://www.amazon.co.uk/Limitless-Leadership-Endures-Ajaz-Ahmed/dp/0091955041/ref=sr_1_1?dchild=1&keywords=Limitless+-+Ajaz+Ahmed&qid=1600429442&sr=8-1)
+- [ ] [High Output Management - Andrew S. Grove](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_2?dchild=1&keywords=High+output+mana&qid=1600429491&sr=8-2)
+- [ ] [Antifragile: Things that Gain from Disorder - Nassim Taleb](https://www.amazon.co.uk/Antifragile-Things-that-Gain-Disorder/dp/0141038225/ref=sr_1_1?dchild=1&keywords=Antifragile+-+Nassim+Taleb&qid=1600429517&sr=8-1)
+- [ ] [The End of Wall Street - Roger Lowenstein](https://www.amazon.co.uk/End-Wall-Street-Roger-Lowenstein/dp/0143118722/ref=sr_1_1?dchild=1&keywords=The+End+of+Wall+Street+-+Roger+Lowenstein&qid=1600429548&sr=8-1)
+- [ ] [Conspiracy of Fools - Kurt Eichenwald](https://www.amazon.co.uk/Conspiracy-Fools-Story-Kurt-Eichenwald/dp/0767911784/ref=sr_1_1?dchild=1&keywords=Conspiracy+of+Fools+-+Kurt+Eichenwald&qid=1600429591&sr=8-1)
+- [ ] [The Physics of Life: The Evolution of Everything - Adrian Bejan](https://www.amazon.co.uk/Physics-Life-Evolution-Everything/dp/1250078822/ref=sr_1_1?dchild=1&keywords=The+Physics+of+Life+-+Adrian+Bejan&qid=1600429651&sr=8-1)
 - [ ] [Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again - Eric Topal](https://www.amazon.co.uk/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638/ref=sr_1_1?crid=XD4ATKWJ4L3C&dchild=1&keywords=deep+medicine&qid=1598802436&sprefix=deep+medi%2Caps%2C135&sr=8-1)
 - [ ] [The Creative Destruction of Medicine: How the Digital Revolution Will Create Better Healthcare - Eric Topal](https://www.amazon.co.uk/Creative-Destruction-Medicine-Revised-Expanded/dp/0465061834/ref=sr_1_1?crid=2S28GR95ANNCP&dchild=1&keywords=the+creative+destruction+of+medicine&qid=1598802590&s=books&sprefix=The+creative+des%2Cstripbooks%2C135&sr=1-1)
 - [ ] [The Body: A Guide for Occupants - Bill Bryson](https://www.amazon.co.uk/Body-Guide-Occupants-Bill-Bryson/dp/085752240X/ref=sr_1_1?crid=1L96ZXJQN7INB&dchild=1&keywords=the+body+bill+bryson&qid=1597585904&sprefix=the+body+%2Caps%2C142&sr=8-1)
 - [ ] [Superminds: How Hyperconnectivity is Changing the Way we Solve Problems - Thomas W. Malone](https://www.amazon.co.uk/Superminds-Surprising-Computers-Thinking-Together/dp/1786075687/ref=sr_1_2?dchild=1&keywords=superminds&qid=1597585841&sr=8-2)
 - [ ] [The Deep Learning Revolution - Terraence J. Sejnowski](https://www.amazon.co.uk/Deep-Learning-Revolution-MIT-Press/dp/026203803X/ref=sr_1_1?crid=3N7AMZN1J2LXL&dchild=1&keywords=the+deep+learning+revolution&qid=1597585807&sprefix=the+deep+learni%2Caps%2C142&sr=8-1)
 - [ ] [Our Final Invention: Artifical Intelligence and the End of the Human Era - James Barrat](https://www.amazon.co.uk/gp/product/1250058783/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
-- [ ] [The Language of Life: DNA and the Revolution in Personalised Medicine - Francia S. Collins](https://www.amazon.co.uk/Language-Life-Revolution-Personalized-Medicine/dp/0061733180/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585664&sr=8-1)
 - [ ] [The Personalised Medicine Revolution - Pieter Cullis](https://www.amazon.co.uk/Personalised-Medicine-Revolution-Diagnosing-Treating/dp/1908643951/ref=sr_1_1?dchild=1&keywords=the+personalised+medical+revolution&qid=1597585592&sr=8-1)
 - [ ] [The Industries of the Future - Alec Ross](amazon.co.uk/Industries-Future-Alec-Ross/dp/1471135268/ref=sr_1_1?crid=3DT4QYE01E0Q7&dchild=1&keywords=the+industries+of+the+future&qid=1597585512&sprefix=the+industies+of+%2Caps%2C134&sr=8-1)
 - [ ] [The Art of Learning: An Inner Journey to Optimal Performance - Josh Waitzkin](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465/ref=sr_1_3?crid=LRP061XIBJIW&dchild=1&keywords=the+art+of+learning&qid=1592173455&s=books&sprefix=the+art+of+learning%2Cstripbooks%2C-1&sr=1-3)
@@ -61,6 +66,11 @@
 - [ ] [Foundations of Programming Languages - Kent D. Lee](https://www.amazon.com/Foundations-Programming-Languages-Undergraduate-Computer/dp/3319133136)
 - [ ] [Guide to Competitive Programming: Learning and Improving Algorithms Through Contests - Antti Laaksonen](https://www.amazon.com/Guide-Competitive-Programming-Algorithms-Undergraduate/dp/3030393569/ref=sr_1_1?crid=ZP5JY1DLPQW8&dchild=1&keywords=guide+to+competitive+programming&qid=1595605966&s=books&sprefix=Guide+to+co%2Cstripbooks-intl-ship%2C203&sr=1-1)
 - [ ] [Beyond Good and Evil - Friedrich Nietzsche](https://www.amazon.co.uk/Beyond-Good-Evil-Penguin-Classics/dp/014044923X/ref=sr_1_1?crid=2PI5JLO6MKHJT&dchild=1&keywords=beyond+good+and+evil&qid=1593719790&s=books&sprefix=beyond+%2Cdigital-text%2C139&sr=1-1)
+- [ ] [The Power of Productivity: Wealth, Poverty and the Threat to Global Stability - William W. Lewis](https://www.amazon.co.uk/Power-Productivity-Wealth-Poverty-Stability/dp/0226476766/ref=sr_1_1?dchild=1&keywords=The+Power+of+Productivity+-+William+W.+Lewis&qid=1600429380&sr=8-1)
+- [ ] [Keynes and the Market - Justyn Walsh](https://www.amazon.co.uk/Keynes-Market-Economist-Overturned-Conventional/dp/047028496X/ref=sr_1_1?dchild=1&keywords=Keynes+and+the+market&qid=1600429342&sr=8-1)
+- [ ] [Straight to Hell - John LeFevre](https://www.amazon.co.uk/Straight-Hell-Debauchery-Billion-Dollar-2016-07-07/dp/B01N6M8W0R/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1600429238&sr=8-1) 
+- [ ] [Why We Think the Things We Think - Alain Stephen](https://www.amazon.co.uk/Why-We-Think-Things-Philosophy/dp/1782437843/ref=sr_1_1?dchild=1&keywords=Why+We+Think+the+Things+We+Think+-+Alain+Stephen&qid=1600429201&sr=8-1)
+- [ ] [The Paradox of Choice: Why More is Less - Barry Schwartz](https://www.amazon.co.uk/Paradox-Choice-More-Less-Revised/dp/0062449923/ref=sr_1_1?dchild=1&keywords=the+paradox+of+choice&qid=1600429174&sr=8-1)
 
 ### Fiction
 - [ ] [Seveneves - Neal Stephenson](https://www.amazon.co.uk/Seveneves-Neal-Stephenson/dp/0008132542/ref=sr_1_1?crid=W8MPFWDTN8TY&dchild=1&keywords=seveneves&qid=1592241354&s=books&sprefix=seven+ev%2Cstripbooks%2C137&sr=1-1)
@@ -70,11 +80,19 @@
 - [ ] [The Pale King - David Foster Wallace](https://www.amazon.co.uk/Pale-King-David-Foster-Wallace/dp/0141046732/ref=sr_1_1?crid=3N79411XTW2KP&dchild=1&keywords=the+pale+king&qid=1592173110&s=books&sprefix=the+pale+king%2Cstripbooks%2C135&sr=1-1)
 - [ ] [The Beautiful and The Damned - F. Scott Fitzgerald](https://www.amazon.co.uk/Beautiful-Penguin-Fitzgerald-Hardback-Collection/dp/0141194073/ref=sr_1_3?crid=31MQATJUDWIIK&dchild=1&keywords=the+beautiful+and+the+damned&qid=1592173756&s=books&sprefix=the+beautiful+and+%2Cstripbooks%2C134&sr=1-3)
 - [ ] [The Hitchhiker's Guide to the Galaxy - Douglas Adams](https://www.amazon.co.uk/Hitchhikers-Guide-Galaxy-Omnibus-Trilogy/dp/1509852794/ref=sr_1_2?crid=19WJZXJ9DPPYN&dchild=1&keywords=the+hitchhiker%27s+guide+to+the+galaxy&qid=1593719940&sprefix=the+hitchhiker%27s+guide+to+the+galaxy+kindle%2Caps%2C133&sr=8-2)
+- [ ] [Submission - Miichel Houellebecq](https://www.amazon.co.uk/Submission-Michel-Houellebecq/dp/1784702056/ref=sr_1_1?dchild=1&keywords=submission+-+michael+houellebecq&qid=1600429709&sr=8-1)
 
 ## Have Read
 
 ### Non-Fiction
 
+- [x] [Introduction to Econometrics: 5th Edition - Christopher Dougherty]()
+- [x] [Shortcut your Startup - Courtney Reum & Carter Reum]()
+- [x] [Fortune's Formula - William Poundstoone]()
+- [x] [The Launch Pad: Inside Y Combinator - Randell Stross]()
+- [x] [Contemporary Strategy Analysis: 6th Edition - Robert M. Grant]()
+- [x] [Designing Interfaces - Jenifer Tidwell]()
+- [x] [Blueprint: How DNA Makes Us Who We Are - Robert Plomin](https://www.amazon.co.uk/Blueprint-How-DNA-Makes-Who/dp/0241282071/ref=sr_1_1?crid=30BX5VZ24O7IA&dchild=1&keywords=blueprint+robert+plomin&qid=1592173268&s=books&sprefix=blueprint+ro%2Cstripbooks%2C143&sr=1-1)
 - [x] [Superior: The Return of Race Science - Angela Saini](https://www.amazon.co.uk/Superior-Return-Science-Angela-Saini/dp/0008293864/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585347&sr=8-1)
 - [x] [Grit - Angela Duckworth](https://www.amazon.co.uk/Grit-passion-resilience-secrets-success/dp/1785040200/ref=sr_1_1?crid=3TB0E26OFUBI0&dchild=1&keywords=grit+angela+duckworth&qid=1592169330&s=books&sprefix=Grit%2Cstripbooks%2C133&sr=1-1)
 - [x] [Effective Java (2nd Edition) - Joshua Block](https://www.amazon.co.uk/Effective-Java-Second-Joshua-Bloch/dp/0321356683)
