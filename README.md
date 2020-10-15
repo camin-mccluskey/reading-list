@@ -2,12 +2,15 @@
 ## Reading Now
 
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
-- [ ] [The Language of Life: DNA and the Revolution in Personalised Medicine - Francia S. Collins](https://www.amazon.co.uk/Language-Life-Revolution-Personalized-Medicine/dp/0061733180/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585664&sr=8-1)
+- [ ] [The Language of Life: DNA and the Revolution in Personalised Medicine - Francis S. Collins](https://www.amazon.co.uk/Language-Life-Revolution-Personalized-Medicine/dp/0061733180/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585664&sr=8-1)
+- [ ] [Seveneves - Neal Stephenson](https://www.amazon.co.uk/Seveneves-Neal-Stephenson/dp/0008132542/ref=sr_1_1?crid=W8MPFWDTN8TY&dchild=1&keywords=seveneves&qid=1592241354&s=books&sprefix=seven+ev%2Cstripbooks%2C137&sr=1-1)
 
 ## Will Read
 
 ### Non-Fiction
 
+- [ ] [Domain Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sxts_sxwds-bia-wc-drs1_0?crid=XNLAIQ416O8V&cv_ct_cx=domain+driven+design&dchild=1&keywords=domain+driven+design&pd_rd_i=0321125215&pd_rd_r=3b6a8c37-3268-4824-9e60-f5456783086c&pd_rd_w=j991M&pd_rd_wg=ZPJPf&pf_rd_p=280fa6e7-40ce-4865-8824-cc1b177907e2&pf_rd_r=BG8XMF17B0K0TY5PRK3K&psc=1&qid=1602760424&sprefix=Domain+D%2Caps%2C184&sr=1-1-5a42e879-3844-4142-9c14-e77fe027c877)
+- [ ] [Release It!: Design and Deploy Production-Ready Software - Michael T. Nygard](https://www.amazon.co.uk/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213)
 - [ ] [Limitless: Leadership that Endures - Ajaz Ahmed](https://www.amazon.co.uk/Limitless-Leadership-Endures-Ajaz-Ahmed/dp/0091955041/ref=sr_1_1?dchild=1&keywords=Limitless+-+Ajaz+Ahmed&qid=1600429442&sr=8-1)
 - [ ] [High Output Management - Andrew S. Grove](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_2?dchild=1&keywords=High+output+mana&qid=1600429491&sr=8-2)
 - [ ] [Antifragile: Things that Gain from Disorder - Nassim Taleb](https://www.amazon.co.uk/Antifragile-Things-that-Gain-Disorder/dp/0141038225/ref=sr_1_1?dchild=1&keywords=Antifragile+-+Nassim+Taleb&qid=1600429517&sr=8-1)
@@ -73,7 +76,7 @@
 - [ ] [The Paradox of Choice: Why More is Less - Barry Schwartz](https://www.amazon.co.uk/Paradox-Choice-More-Less-Revised/dp/0062449923/ref=sr_1_1?dchild=1&keywords=the+paradox+of+choice&qid=1600429174&sr=8-1)
 
 ### Fiction
-- [ ] [Seveneves - Neal Stephenson](https://www.amazon.co.uk/Seveneves-Neal-Stephenson/dp/0008132542/ref=sr_1_1?crid=W8MPFWDTN8TY&dchild=1&keywords=seveneves&qid=1592241354&s=books&sprefix=seven+ev%2Cstripbooks%2C137&sr=1-1)
+
 - [ ] [Dune - Frank Herbert](https://www.amazon.co.uk/Dune-Frank-Herbert/dp/0340960191/ref=pd_sbs_14_23?_encoding=UTF8&pd_rd_i=0340960191&pd_rd_r=b95ef255-c53d-4668-a5f6-3ad3d9030c36&pd_rd_w=5UT4R&pd_rd_wg=fsFO0&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=6CN0P4EPAR99AXSVJTM8&psc=1&refRID=6CN0P4EPAR99AXSVJTM8)
 - [ ] [War and Peace - Leo Tolsoy](https://www.amazon.co.uk/Peace-Translated-Louise-Aylmer-Maude/dp/1420953508/ref=sr_1_1_sspa?crid=18ZDW7X2KCUGQ&dchild=1&keywords=war+and+peace&qid=1592171063&s=books&sprefix=War+and+P%2Cstripbooks%2C141&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyU1FPRDlOVTBBQ0ZYJmVuY3J5cHRlZElkPUEwMTM1NjE1MTE0S0tYRDlHRTVSNyZlbmNyeXB0ZWRBZElkPUEwMTUzMzYwMVdIT0xSRzg4QzRPUSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 - [ ] [The Broom of the System - David Foster Wallace](https://www.amazon.co.uk/Broom-System-David-Foster-Wallace/dp/0349109230/ref=sr_1_1?crid=3OC4R32SJ9PGB&dchild=1&keywords=the+broom+of+the+system&qid=1592173078&s=books&sprefix=the+broom+in+the+syst%2Cstripbooks%2C145&sr=1-1)
