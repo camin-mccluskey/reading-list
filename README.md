@@ -3,7 +3,6 @@
 
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
 - [ ] [The Language of Life: DNA and the Revolution in Personalised Medicine - Francis S. Collins](https://www.amazon.co.uk/Language-Life-Revolution-Personalized-Medicine/dp/0061733180/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585664&sr=8-1)
-- [ ] [Seveneves - Neal Stephenson](https://www.amazon.co.uk/Seveneves-Neal-Stephenson/dp/0008132542/ref=sr_1_1?crid=W8MPFWDTN8TY&dchild=1&keywords=seveneves&qid=1592241354&s=books&sprefix=seven+ev%2Cstripbooks%2C137&sr=1-1)
 
 ## Will Read
 
@@ -180,6 +179,7 @@ Holger Rathgeber](https://www.amazon.co.uk/Our-Iceberg-Melting-Succeeding-Condit
 
 ### Fiction
 
+- [x] [Seveneves - Neal Stephenson](https://www.amazon.co.uk/Seveneves-Neal-Stephenson/dp/0008132542/ref=sr_1_1?crid=W8MPFWDTN8TY&dchild=1&keywords=seveneves&qid=1592241354&s=books&sprefix=seven+ev%2Cstripbooks%2C137&sr=1-1)
 - [x] [A Supposedly Fun Thing I'll Never Do Again - David Foster Wallace](https://www.amazon.co.uk/Supposedly-Fun-Thing-Never-Again/dp/0349110018/ref=sr_1_1?crid=5QNJL8IZQUNT&dchild=1&keywords=a+supposedly+fun+thing+i%27ll+never+do+again&qid=1592169958&s=books&sprefix=a+suppos%2Cstripbooks%2C132&sr=1-1)
 - [x] [Cloud Atlas - David Mitchell](https://www.amazon.co.uk/Cloud-Atlas-David-Mitchell/dp/0340822783/ref=sr_1_1?crid=O9IJ27BF86FB&dchild=1&keywords=cloud+atlas&qid=1592170055&s=books&sprefix=Cloud+A%2Cstripbooks%2C140&sr=1-1)
 - [x] [The Brother's Karamazov - Fyodor Dostoyevsky](https://www.amazon.co.uk/Brothers-Karamazov-Fyodor-Dostoyevsky/dp/1420961284/ref=sr_1_1_sspa?crid=AYDBWMK1ZYOT&dchild=1&keywords=the+brothers+karamazov&qid=1592170087&s=books&sprefix=the+brothers+%2Cstripbooks%2C142&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMk9JOFY0M0VaU05JJmVuY3J5cHRlZElkPUEwMjQ3ODI1MlZWNVNZMkEwVFFEQiZlbmNyeXB0ZWRBZElkPUEwMDMzMjQ2MVg4MzRLS1pEVjFJViZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
