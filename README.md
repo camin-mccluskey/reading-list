@@ -3,6 +3,7 @@
 
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
 - [ ] [The Language of Life: DNA and the Revolution in Personalised Medicine - Francis S. Collins](https://www.amazon.co.uk/Language-Life-Revolution-Personalized-Medicine/dp/0061733180/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585664&sr=8-1)
+- [ ] [Clean Architecture: A Craftsman's Guide to Software Structure and Design - Martin Fowler](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_3?dchild=1&keywords=evolutionary+architecture&qid=1592174110&s=books&sr=1-3)
 
 ## Will Read
 
@@ -29,8 +30,6 @@
 - [ ] [The Creativity Code - Marcus Du Sautoy](https://www.amazon.co.uk/Creativity-Code-Marcus-du-Sautoy/dp/0008288194/ref=sr_1_2?crid=3GUSTNXV2FZ6P&dchild=1&keywords=the+creativity+code&qid=1594029339&sprefix=the+creativity+%2Caps%2C-1&sr=8-2)
 - [ ] [The Precipice - Toby Ord](https://www.amazon.co.uk/Precipice-Existential-Risk-Future-Humanity/dp/1526600218/ref=sr_1_1?crid=1VI4LTVTGS8O2&dchild=1&keywords=the+precipice&qid=1592173819&s=books&sprefix=the+preci%2Cstripbooks%2C141&sr=1-1)
 - [ ] [Against the Gods: The Remarkable Story of Risk - Peter L. Bernstein](https://www.amazon.co.uk/Against-Gods-Remarkable-Story-Risk-ebook/dp/B00BV6RTUG/ref=sr_1_1?crid=2K4OXC8S509KR&dchild=1&keywords=against+the+gods+the+remarkable+story+of+risk&qid=1592173853&s=books&sprefix=against+the+god%2Cstripbooks%2C133&sr=1-1)
-- [ ] [Clean Architecture: A Craftsman's Guide to Software Structure and Design - Martin Fowler](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_3?dchild=1&keywords=evolutionary+architecture&qid=1592174110&s=books&sr=1-3)
-- [ ] [Release It! Design and Deploy Production-Ready Software - Michael T. Nygard](https://www.amazon.co.uk/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ref=sr_1_1?crid=2DOEA5FYEQK5L&dchild=1&keywords=release+it&qid=1592173888&s=books&sprefix=release+it%2Cstripbooks%2C134&sr=1-1)
 - [ ] [Artificial Intelligence: A Modern Approach - Russel Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
 - [ ] [Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?crid=9FA4HLN0QLNF&dchild=1&keywords=domain+driven+design&qid=1592173932&s=books&sprefix=Domain+%2Cstripbooks%2C138&sr=1-1)
 - [ ] [Building Evolutionary Architectures - Neal Ford, Rebecca Parsons & Patrick Kua](https://www.amazon.co.uk/Building-Evolutionary-Architectures-Neal-Ford/dp/1491986360/ref=sr_1_1?dchild=1&keywords=evolutionary+architecture&qid=1592174044&s=books&sr=1-1)
