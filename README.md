@@ -9,6 +9,8 @@
 
 ### Non-Fiction
 
+- [ ] [The Emperor's New Mind - Rodger Penrose](https://www.amazon.co.uk/Emperors-New-Mind-Concerning-Computers/dp/0198784929/ref=sr_1_1?dchild=1&keywords=the+emperors+new+mind&qid=1605484840&sr=8-1)
+- [ ] [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.co.uk/Godel-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?crid=T4V3YVMQAHY0&dchild=1&keywords=godel+escher+bach&qid=1605484818&sprefix=godel+e%2Caps%2C176&sr=8-1)
 - [ ] [Domain Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sxts_sxwds-bia-wc-drs1_0?crid=XNLAIQ416O8V&cv_ct_cx=domain+driven+design&dchild=1&keywords=domain+driven+design&pd_rd_i=0321125215&pd_rd_r=3b6a8c37-3268-4824-9e60-f5456783086c&pd_rd_w=j991M&pd_rd_wg=ZPJPf&pf_rd_p=280fa6e7-40ce-4865-8824-cc1b177907e2&pf_rd_r=BG8XMF17B0K0TY5PRK3K&psc=1&qid=1602760424&sprefix=Domain+D%2Caps%2C184&sr=1-1-5a42e879-3844-4142-9c14-e77fe027c877)
 - [ ] [Release It!: Design and Deploy Production-Ready Software - Michael T. Nygard](https://www.amazon.co.uk/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213)
 - [ ] [Limitless: Leadership that Endures - Ajaz Ahmed](https://www.amazon.co.uk/Limitless-Leadership-Endures-Ajaz-Ahmed/dp/0091955041/ref=sr_1_1?dchild=1&keywords=Limitless+-+Ajaz+Ahmed&qid=1600429442&sr=8-1)
