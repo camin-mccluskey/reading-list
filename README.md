@@ -2,13 +2,15 @@
 ## Reading Now
 
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
-- [ ] [The Language of Life: DNA and the Revolution in Personalised Medicine - Francis S. Collins](https://www.amazon.co.uk/Language-Life-Revolution-Personalized-Medicine/dp/0061733180/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585664&sr=8-1)
 - [ ] [Clean Architecture: A Craftsman's Guide to Software Structure and Design - Martin Fowler](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_3?dchild=1&keywords=evolutionary+architecture&qid=1592174110&s=books&sr=1-3)
 
 ## Will Read
 
 ### Non-Fiction
 
+- [ ] [The Extended Phenotype: The Long Reach of the Gene - Richard Dawkins](https://www.amazon.co.uk/Extended-Phenotype-Oxford-Landmark-Science/dp/0198788916/ref=sr_1_1?crid=2KWN73W80P76&dchild=1&keywords=the+extended+phenotype&qid=1609413537&sprefix=the+extennded+%2Caps%2C253&sr=8-1)
+- [ ] [No Plan B - Heather Thorkelson](https://www.amazon.co.uk/No-Plan-Incurable-Entrepreneurs-Rebellious/dp/9151956926/ref=sr_1_1?dchild=1&keywords=no+plan+b&qid=1609413395&quartzVehicle=694-1832&replacementKeywords=no+plan&sr=8-1)
+- [ ] [The Language of Life: DNA and the Revolution in Personalised Medicine - Francis S. Collins](https://www.amazon.co.uk/Language-Life-Revolution-Personalized-Medicine/dp/0061733180/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585664&sr=8-1)
 - [ ] [To Mock a Mockingbird - Raymond Smullyan](https://www.amazon.co.uk/Mock-Mockingbird-Other-Logic-Puzzles/dp/0192801422/ref=sr_1_1?crid=2VEX2QE1YDTI8&dchild=1&keywords=to+mock+a+mockingbird&qid=1605629128&sprefix=to+mock+a+%2Caps%2C150&sr=8-1)
 - [ ] [Building Evolutionary Architectures: Support Constant Change - Neal Ford, Rebecca Parsons & Patrick Kua](https://www.amazon.co.uk/Building-Evolutionary-Architectures-Neal-Ford/dp/1491986360/ref=sr_1_1?crid=20MZC5513MLMB&dchild=1&keywords=building+evolutionary+architectures&qid=1605629143&sprefix=Building+evo%2Caps%2C141&sr=8-1)
 - [ ] [The Emperor's New Mind - Rodger Penrose](https://www.amazon.co.uk/Emperors-New-Mind-Concerning-Computers/dp/0198784929/ref=sr_1_1?dchild=1&keywords=the+emperors+new+mind&qid=1605484840&sr=8-1)
@@ -91,6 +93,7 @@
 
 ### Non-Fiction
 
+- [x] [Permanent Record - Edward Snowden](https://www.amazon.co.uk/Permanent-Record-Edward-Snowden/dp/1529035694/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - [x] [Introduction to Econometrics: 5th Edition - Christopher Dougherty]()
 - [x] [Shortcut your Startup - Courtney Reum & Carter Reum]()
 - [x] [Fortune's Formula - William Poundstoone]()
