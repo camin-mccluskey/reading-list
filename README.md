@@ -8,6 +8,7 @@
 
 ### Non-Fiction
 
+- [ ] [No Rules Rules: Netflix and the Culture of Reinvention - Reed Hastings & Erin Meyer](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860/ref=sr_1_1?crid=U5MFNSBFR1U4&dchild=1&keywords=no+rules+rules&qid=1609796154&sprefix=No+rules+%2Caps%2C320&sr=8-1)
 - [ ] [The Extended Phenotype: The Long Reach of the Gene - Richard Dawkins](https://www.amazon.co.uk/Extended-Phenotype-Oxford-Landmark-Science/dp/0198788916/ref=sr_1_1?crid=2KWN73W80P76&dchild=1&keywords=the+extended+phenotype&qid=1609413537&sprefix=the+extennded+%2Caps%2C253&sr=8-1)
 - [ ] [No Plan B - Heather Thorkelson](https://www.amazon.co.uk/No-Plan-Incurable-Entrepreneurs-Rebellious/dp/9151956926/ref=sr_1_1?dchild=1&keywords=no+plan+b&qid=1609413395&quartzVehicle=694-1832&replacementKeywords=no+plan&sr=8-1)
 - [ ] [The Language of Life: DNA and the Revolution in Personalised Medicine - Francis S. Collins](https://www.amazon.co.uk/Language-Life-Revolution-Personalized-Medicine/dp/0061733180/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597585664&sr=8-1)
@@ -93,6 +94,7 @@
 
 ### Non-Fiction
 
+- [x] [The Strange Last Voyage of Donald Crowhurst - Nicholas Tomalin & Ron Hall](https://www.amazon.com/Strange-Last-Voyage-Donald-Crowhurst/dp/1681441829/ref=sr_1_1?crid=1IP8JMI54GHQH&dchild=1&keywords=the+strange+last+voyage+of+donald+crowhurst&qid=1609796104&sprefix=the+strange+las%2Caps%2C296&sr=8-1)
 - [x] [Permanent Record - Edward Snowden](https://www.amazon.co.uk/Permanent-Record-Edward-Snowden/dp/1529035694/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - [x] [Introduction to Econometrics: 5th Edition - Christopher Dougherty]()
 - [x] [Shortcut your Startup - Courtney Reum & Carter Reum]()
