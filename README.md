@@ -3,7 +3,6 @@
 
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
 - [ ] [Clean Architecture: A Craftsman's Guide to Software Structure and Design - Martin Fowler](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_3?dchild=1&keywords=evolutionary+architecture&qid=1592174110&s=books&sr=1-3)
-- [ ] [Founders at Work: Stories of Startups' Early Days - Jessica Livingston](https://www.amazon.co.uk/Founders-Work-Stories-Startups-Early/dp/1590597141/ref=pd_sbs_14_9?_encoding=UTF8&pd_rd_i=1590597141&pd_rd_r=3d9e7ae2-d763-4640-945f-8813678ded29&pd_rd_w=rHUhX&pd_rd_wg=3SyKq&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=YEJP0HYNEG0A2RMDK7Q4&psc=1&refRID=YEJP0HYNEG0A2RMDK7Q4)
 
 ## Will Read
 
@@ -93,6 +92,8 @@
 
 ### Non-Fiction
 
+- [x] [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you - Rob Fitzpatrick](https://www.amazon.co.uk/Mom-Test-customers-business-everyone/dp/1492180742)
+- [x] [Founders at Work: Stories of Startups' Early Days - Jessica Livingston](https://www.amazon.co.uk/Founders-Work-Stories-Startups-Early/dp/1590597141/ref=pd_sbs_14_9?_encoding=UTF8&pd_rd_i=1590597141&pd_rd_r=3d9e7ae2-d763-4640-945f-8813678ded29&pd_rd_w=rHUhX&pd_rd_wg=3SyKq&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=YEJP0HYNEG0A2RMDK7Q4&psc=1&refRID=YEJP0HYNEG0A2RMDK7Q4)
 - [x] [The Strange Last Voyage of Donald Crowhurst - Nicholas Tomalin & Ron Hall](https://www.amazon.com/Strange-Last-Voyage-Donald-Crowhurst/dp/1681441829/ref=sr_1_1?crid=1IP8JMI54GHQH&dchild=1&keywords=the+strange+last+voyage+of+donald+crowhurst&qid=1609796104&sprefix=the+strange+las%2Caps%2C296&sr=8-1)
 - [x] [Permanent Record - Edward Snowden](https://www.amazon.co.uk/Permanent-Record-Edward-Snowden/dp/1529035694/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - [ ] [Sun Tzu - The Art of War for Managers: 50 Strategic Rules Updated for Today's Business - Gerald A Michaelson & Steven W Michaelson](https://www.amazon.co.uk/Sun-Tzu-Managers-Strategic-Business-ebook/dp/B01N9VT7HR/ref=sr_1_1?crid=1QIAE8TLG23GB&dchild=1&keywords=the+art+of+war+for+managers&qid=1592243493&s=digital-text&sprefix=the+art+of+war+for+man%2Cdigital-text%2C134&sr=1-1)
