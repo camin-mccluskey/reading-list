@@ -3,7 +3,8 @@
 
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
 - [ ] [Clean Architecture: A Craftsman's Guide to Software Structure and Design - Martin Fowler](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_3?dchild=1&keywords=evolutionary+architecture&qid=1592174110&s=books&sr=1-3)
-- [ ] [Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth - John Doerr](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=pd_sbs_14_8?_encoding=UTF8&pd_rd_i=024134848X&pd_rd_r=3d9e7ae2-d763-4640-945f-8813678ded29&pd_rd_w=rHUhX&pd_rd_wg=3SyKq&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=YEJP0HYNEG0A2RMDK7Q4&psc=1&refRID=YEJP0HYNEG0A2RMDK7Q4)
+- [ ] [Superminds: How Hyperconnectivity is Changing the Way we Solve Problems - Thomas W. Malone](https://www.amazon.co.uk/Superminds-Surprising-Computers-Thinking-Together/dp/1786075687/ref=sr_1_2?dchild=1&keywords=superminds&qid=1597585841&sr=8-2)
+
 
 ## Will Read
 
@@ -28,7 +29,6 @@
 - [ ] [Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again - Eric Topal](https://www.amazon.co.uk/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638/ref=sr_1_1?crid=XD4ATKWJ4L3C&dchild=1&keywords=deep+medicine&qid=1598802436&sprefix=deep+medi%2Caps%2C135&sr=8-1)
 - [ ] [The Creative Destruction of Medicine: How the Digital Revolution Will Create Better Healthcare - Eric Topal](https://www.amazon.co.uk/Creative-Destruction-Medicine-Revised-Expanded/dp/0465061834/ref=sr_1_1?crid=2S28GR95ANNCP&dchild=1&keywords=the+creative+destruction+of+medicine&qid=1598802590&s=books&sprefix=The+creative+des%2Cstripbooks%2C135&sr=1-1)
 - [ ] [The Body: A Guide for Occupants - Bill Bryson](https://www.amazon.co.uk/Body-Guide-Occupants-Bill-Bryson/dp/085752240X/ref=sr_1_1?crid=1L96ZXJQN7INB&dchild=1&keywords=the+body+bill+bryson&qid=1597585904&sprefix=the+body+%2Caps%2C142&sr=8-1)
-- [ ] [Superminds: How Hyperconnectivity is Changing the Way we Solve Problems - Thomas W. Malone](https://www.amazon.co.uk/Superminds-Surprising-Computers-Thinking-Together/dp/1786075687/ref=sr_1_2?dchild=1&keywords=superminds&qid=1597585841&sr=8-2)
 - [ ] [The Deep Learning Revolution - Terraence J. Sejnowski](https://www.amazon.co.uk/Deep-Learning-Revolution-MIT-Press/dp/026203803X/ref=sr_1_1?crid=3N7AMZN1J2LXL&dchild=1&keywords=the+deep+learning+revolution&qid=1597585807&sprefix=the+deep+learni%2Caps%2C142&sr=8-1)
 - [ ] [Our Final Invention: Artifical Intelligence and the End of the Human Era - James Barrat](https://www.amazon.co.uk/gp/product/1250058783/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
 - [ ] [The Personalised Medicine Revolution - Pieter Cullis](https://www.amazon.co.uk/Personalised-Medicine-Revolution-Diagnosing-Treating/dp/1908643951/ref=sr_1_1?dchild=1&keywords=the+personalised+medical+revolution&qid=1597585592&sr=8-1)
@@ -92,6 +92,7 @@
 
 ### Non-Fiction
 
+- [x] [Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth - John Doerr](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=pd_sbs_14_8?_encoding=UTF8&pd_rd_i=024134848X&pd_rd_r=3d9e7ae2-d763-4640-945f-8813678ded29&pd_rd_w=rHUhX&pd_rd_wg=3SyKq&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=YEJP0HYNEG0A2RMDK7Q4&psc=1&refRID=YEJP0HYNEG0A2RMDK7Q4)
 - [x] [The Personalized Medicine Revolution - Pieter Cullis](https://www.amazon.co.uk/Personalized-Medicine-Revolution-Diagnosing-Treating/dp/1771640383)
 - [x] [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you - Rob Fitzpatrick](https://www.amazon.co.uk/Mom-Test-customers-business-everyone/dp/1492180742)
 - [x] [Founders at Work: Stories of Startups' Early Days - Jessica Livingston](https://www.amazon.co.uk/Founders-Work-Stories-Startups-Early/dp/1590597141/ref=pd_sbs_14_9?_encoding=UTF8&pd_rd_i=1590597141&pd_rd_r=3d9e7ae2-d763-4640-945f-8813678ded29&pd_rd_w=rHUhX&pd_rd_wg=3SyKq&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=YEJP0HYNEG0A2RMDK7Q4&psc=1&refRID=YEJP0HYNEG0A2RMDK7Q4)
