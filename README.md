@@ -191,6 +191,7 @@ Holger Rathgeber](https://www.amazon.co.uk/Our-Iceberg-Melting-Succeeding-Condit
 
 ### Fiction
 
+- [x] [The Revelations - Eric Hoel](https://www.amazon.co.uk/Revelations-Novel-Erik-Hoel/dp/1419750224)
 - [x] [Seveneves - Neal Stephenson](https://www.amazon.co.uk/Seveneves-Neal-Stephenson/dp/0008132542/ref=sr_1_1?crid=W8MPFWDTN8TY&dchild=1&keywords=seveneves&qid=1592241354&s=books&sprefix=seven+ev%2Cstripbooks%2C137&sr=1-1)
 - [x] [A Supposedly Fun Thing I'll Never Do Again - David Foster Wallace](https://www.amazon.co.uk/Supposedly-Fun-Thing-Never-Again/dp/0349110018/ref=sr_1_1?crid=5QNJL8IZQUNT&dchild=1&keywords=a+supposedly+fun+thing+i%27ll+never+do+again&qid=1592169958&s=books&sprefix=a+suppos%2Cstripbooks%2C132&sr=1-1)
 - [x] [Cloud Atlas - David Mitchell](https://www.amazon.co.uk/Cloud-Atlas-David-Mitchell/dp/0340822783/ref=sr_1_1?crid=O9IJ27BF86FB&dchild=1&keywords=cloud+atlas&qid=1592170055&s=books&sprefix=Cloud+A%2Cstripbooks%2C140&sr=1-1)
