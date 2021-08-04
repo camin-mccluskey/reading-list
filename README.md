@@ -2,11 +2,13 @@
 ## Reading Now
 
 - [ ] [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.co.uk/Godel-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?crid=T4V3YVMQAHY0&dchild=1&keywords=godel+escher+bach&qid=1605484818&sprefix=godel+e%2Caps%2C176&sr=8-1)
+- [ ] [Blockchain Revolution - Don Tapscott & Alex Tapscott](https://www.amazon.co.uk/Blockchain-Revolution-Technology-Changing-Business/dp/151135769X)
 
 ## Will Read
 
 ### Non-Fiction
 
+- [ ] [Cynical Theories - Helen Pluckrose & James Lindsay](https://www.amazon.co.uk/Cynical-Theories-Scholarship-Everything-Identity/dp/1634312023)
 - [ ] [Traction: How Any Startup Can Achieve Explosive Customer Growth - Gabriel Weinberg & Justin Mares](https://www.amazon.co.uk/Traction-Startup-Achieve-Explosive-Customer/dp/0241242533/ref=sr_1_2?dchild=1&keywords=traction&qid=1623948392&s=books&sr=1-2)
 - [ ] [Play Bigger: How Rebels and Innovators Create New Categories and Dominate Markets - Al Ramadan, Dave Peterson, Christopher Lochhead & Kevin Maney](https://www.amazon.co.uk/Play-Bigger-Innovators-Categories-Dominate/dp/0349411360/ref=sr_1_1?dchild=1&keywords=play+bigger&qid=1623948174&s=books&sr=1-1)
 - [ ] [The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture - Scott Belsky](https://www.amazon.co.uk/Messy-Middle-Finding-Through-Hardest/dp/0241310172/ref=sr_1_1?crid=1RUXOHYL8VJNE&dchild=1&keywords=messy+middle&qid=1623948497&sprefix=messy+middle%2Cstripbooks%2C140&sr=8-1)
@@ -18,7 +20,6 @@
 - [ ] [Nudge: Improving Decisions About Health, Wealth and Happiness - Richard H. Thaler & Cass R. Sunstein](https://www.amazon.co.uk/Nudge-Improving-Decisions-Health-Happiness/dp/0141040017/ref=sr_1_1?crid=31B3R2UULPBLA&dchild=1&keywords=nudge&qid=1623948094&s=books&sprefix=nudge%2Cstripbooks%2C148&sr=1-1)
 - [ ] [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold](https://www.amazon.co.uk/Annotated-Turing-Through-Historic-Computability/dp/0470229055/ref=pd_sbs_14_50?_encoding=UTF8&pd_rd_i=0470229055&pd_rd_r=1b60a0e0-1e9b-400f-ac48-9a29d061f646&pd_rd_w=gXU1V&pd_rd_wg=utHwG&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=1KJV76TYKF20Q3EC8G1C&psc=1&refRID=1KJV76TYKF20Q3EC8G1C)
 - [ ] [Clean Architecture: A Craftsman's Guide to Software Structure and Design - Martin Fowler](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_3?dchild=1&keywords=evolutionary+architecture&qid=1592174110&s=books&sr=1-3)
-- [ ] [Superminds: How Hyperconnectivity is Changing the Way we Solve Problems - Thomas W. Malone](https://www.amazon.co.uk/Superminds-Surprising-Computers-Thinking-Together/dp/1786075687/ref=sr_1_2?dchild=1&keywords=superminds&qid=1597585841&sr=8-2)
 - [ ] [No Rules Rules: Netflix and the Culture of Reinvention - Reed Hastings & Erin Meyer](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860/ref=sr_1_1?crid=U5MFNSBFR1U4&dchild=1&keywords=no+rules+rules&qid=1609796154&sprefix=No+rules+%2Caps%2C320&sr=8-1)
 - [ ] [The Extended Phenotype: The Long Reach of the Gene - Richard Dawkins](https://www.amazon.co.uk/Extended-Phenotype-Oxford-Landmark-Science/dp/0198788916/ref=sr_1_1?crid=2KWN73W80P76&dchild=1&keywords=the+extended+phenotype&qid=1609413537&sprefix=the+extennded+%2Caps%2C253&sr=8-1)
 - [ ] [No Plan B - Heather Thorkelson](https://www.amazon.co.uk/No-Plan-Incurable-Entrepreneurs-Rebellious/dp/9151956926/ref=sr_1_1?dchild=1&keywords=no+plan+b&qid=1609413395&quartzVehicle=694-1832&replacementKeywords=no+plan&sr=8-1)
@@ -102,6 +103,7 @@
 
 ### Non-Fiction
 
+- [x] [Superminds: How Hyperconnectivity is Changing the Way we Solve Problems - Thomas W. Malone](https://www.amazon.co.uk/Superminds-Surprising-Computers-Thinking-Together/dp/1786075687/ref=sr_1_2?dchild=1&keywords=superminds&qid=1597585841&sr=8-2)
 - [x] [Sprint: How To Solve Big Problems and Test New Ideas in Just Five Days - Jake Knapp](https://www.amazon.co.uk/Sprint-Solve-Problems-Test-Ideas/dp/0593076117/ref=sr_1_1?dchild=1&keywords=Sprint&qid=1623947777&sr=8-1)
 - [x] [Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth - John Doerr](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=pd_sbs_14_8?_encoding=UTF8&pd_rd_i=024134848X&pd_rd_r=3d9e7ae2-d763-4640-945f-8813678ded29&pd_rd_w=rHUhX&pd_rd_wg=3SyKq&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=YEJP0HYNEG0A2RMDK7Q4&psc=1&refRID=YEJP0HYNEG0A2RMDK7Q4)
 - [x] [The Personalized Medicine Revolution - Pieter Cullis](https://www.amazon.co.uk/Personalized-Medicine-Revolution-Diagnosing-Treating/dp/1771640383)
@@ -202,6 +204,7 @@ Holger Rathgeber](https://www.amazon.co.uk/Our-Iceberg-Melting-Succeeding-Condit
 
 ### Fiction
 
+- [x] [Klara and the Sun - Kazuo Ishiguro](https://www.amazon.co.uk/Klara-Sun-hardback-Kazuo-Ishiguro/dp/057136487X)
 - [x] [The Revelations - Eric Hoel](https://www.amazon.co.uk/Revelations-Novel-Erik-Hoel/dp/1419750224)
 - [x] [Seveneves - Neal Stephenson](https://www.amazon.co.uk/Seveneves-Neal-Stephenson/dp/0008132542/ref=sr_1_1?crid=W8MPFWDTN8TY&dchild=1&keywords=seveneves&qid=1592241354&s=books&sprefix=seven+ev%2Cstripbooks%2C137&sr=1-1)
 - [x] [A Supposedly Fun Thing I'll Never Do Again - David Foster Wallace](https://www.amazon.co.uk/Supposedly-Fun-Thing-Never-Again/dp/0349110018/ref=sr_1_1?crid=5QNJL8IZQUNT&dchild=1&keywords=a+supposedly+fun+thing+i%27ll+never+do+again&qid=1592169958&s=books&sprefix=a+suppos%2Cstripbooks%2C132&sr=1-1)
