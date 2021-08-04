@@ -2,13 +2,13 @@
 ## Reading Now
 
 - [ ] [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.co.uk/Godel-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?crid=T4V3YVMQAHY0&dchild=1&keywords=godel+escher+bach&qid=1605484818&sprefix=godel+e%2Caps%2C176&sr=8-1)
-- [ ] [Blockchain Revolution - Don Tapscott & Alex Tapscott](https://www.amazon.co.uk/Blockchain-Revolution-Technology-Changing-Business/dp/151135769X)
+- [ ] [Cynical Theories - Helen Pluckrose & James Lindsay](https://www.amazon.co.uk/Cynical-Theories-Scholarship-Everything-Identity/dp/1634312023)
+
 
 ## Will Read
 
 ### Non-Fiction
 
-- [ ] [Cynical Theories - Helen Pluckrose & James Lindsay](https://www.amazon.co.uk/Cynical-Theories-Scholarship-Everything-Identity/dp/1634312023)
 - [ ] [Traction: How Any Startup Can Achieve Explosive Customer Growth - Gabriel Weinberg & Justin Mares](https://www.amazon.co.uk/Traction-Startup-Achieve-Explosive-Customer/dp/0241242533/ref=sr_1_2?dchild=1&keywords=traction&qid=1623948392&s=books&sr=1-2)
 - [ ] [Play Bigger: How Rebels and Innovators Create New Categories and Dominate Markets - Al Ramadan, Dave Peterson, Christopher Lochhead & Kevin Maney](https://www.amazon.co.uk/Play-Bigger-Innovators-Categories-Dominate/dp/0349411360/ref=sr_1_1?dchild=1&keywords=play+bigger&qid=1623948174&s=books&sr=1-1)
 - [ ] [The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture - Scott Belsky](https://www.amazon.co.uk/Messy-Middle-Finding-Through-Hardest/dp/0241310172/ref=sr_1_1?crid=1RUXOHYL8VJNE&dchild=1&keywords=messy+middle&qid=1623948497&sprefix=messy+middle%2Cstripbooks%2C140&sr=8-1)
@@ -104,6 +104,7 @@
 ### Non-Fiction
 
 - [x] [Superminds: How Hyperconnectivity is Changing the Way we Solve Problems - Thomas W. Malone](https://www.amazon.co.uk/Superminds-Surprising-Computers-Thinking-Together/dp/1786075687/ref=sr_1_2?dchild=1&keywords=superminds&qid=1597585841&sr=8-2)
+- [x] [Blockchain Revolution - Don Tapscott & Alex Tapscott](https://www.amazon.co.uk/Blockchain-Revolution-Technology-Changing-Business/dp/151135769X)
 - [x] [Sprint: How To Solve Big Problems and Test New Ideas in Just Five Days - Jake Knapp](https://www.amazon.co.uk/Sprint-Solve-Problems-Test-Ideas/dp/0593076117/ref=sr_1_1?dchild=1&keywords=Sprint&qid=1623947777&sr=8-1)
 - [x] [Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth - John Doerr](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/024134848X/ref=pd_sbs_14_8?_encoding=UTF8&pd_rd_i=024134848X&pd_rd_r=3d9e7ae2-d763-4640-945f-8813678ded29&pd_rd_w=rHUhX&pd_rd_wg=3SyKq&pf_rd_p=2773aa8e-42c5-4dbe-bda8-5cdf226aa078&pf_rd_r=YEJP0HYNEG0A2RMDK7Q4&psc=1&refRID=YEJP0HYNEG0A2RMDK7Q4)
 - [x] [The Personalized Medicine Revolution - Pieter Cullis](https://www.amazon.co.uk/Personalized-Medicine-Revolution-Diagnosing-Treating/dp/1771640383)
