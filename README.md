@@ -98,6 +98,9 @@
 - [ ] [The Beautiful and The Damned - F. Scott Fitzgerald](https://www.amazon.co.uk/Beautiful-Penguin-Fitzgerald-Hardback-Collection/dp/0141194073/ref=sr_1_3?crid=31MQATJUDWIIK&dchild=1&keywords=the+beautiful+and+the+damned&qid=1592173756&s=books&sprefix=the+beautiful+and+%2Cstripbooks%2C134&sr=1-3)
 - [ ] [The Hitchhiker's Guide to the Galaxy - Douglas Adams](https://www.amazon.co.uk/Hitchhikers-Guide-Galaxy-Omnibus-Trilogy/dp/1509852794/ref=sr_1_2?crid=19WJZXJ9DPPYN&dchild=1&keywords=the+hitchhiker%27s+guide+to+the+galaxy&qid=1593719940&sprefix=the+hitchhiker%27s+guide+to+the+galaxy+kindle%2Caps%2C133&sr=8-2)
 - [ ] [Submission - Miichel Houellebecq](https://www.amazon.co.uk/Submission-Michel-Houellebecq/dp/1784702056/ref=sr_1_1?dchild=1&keywords=submission+-+michael+houellebecq&qid=1600429709&sr=8-1)
+- [ ] [Ulysess - James Joyce](https://www.amazon.co.uk/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A00091362MG51UQ8L4A34&url=%2FUlysses-James-Joyce%2Fdp%2F1727252136%2Fref%3Dsr_1_1_sspa%3Fcrid%3D20F3C8O6Z944%26dchild%3D1%26keywords%3Dulysses%2Bjames%2Bjoyce%26qid%3D1630947711%26sprefix%3Dulys%252Caps%252C234%26sr%3D8-1-spons%26psc%3D1&qualifier=1630947711&id=1403585439723835&widgetName=sp_atf)
+- [ ] [Dubliners - James Joyce](https://www.amazon.co.uk/Dubliners-Penguin-Modern-Classics-James/dp/0141182458/ref=sr_1_1?dchild=1&keywords=dubliners+james+joyce&qid=1630947740&sr=8-1)
+- [ ] [A Portrait of the Artist as a Young Man - James Joyce](https://www.amazon.co.uk/Portrait-Artist-Penguin-Modern-Classics/dp/0141182660/ref=sr_1_1?crid=GM8L8V7RZHDX&dchild=1&keywords=a+portrait+of+the+artist+as+a+young+man&qid=1630947756&sprefix=a+port%2Caps%2C362&sr=8-1)
 
 ## Have Read
 
@@ -202,6 +205,13 @@ Holger Rathgeber](https://www.amazon.co.uk/Our-Iceberg-Melting-Succeeding-Condit
 - [x] [The Start-up of You - Reid Hoffman & Ben Casnocha](https://www.amazon.co.uk/Start-up-You-Future-Yourself-Transform/dp/1847940803/ref=sr_1_1?crid=3A95XFJE4GBTD&dchild=1&keywords=the+startup+of+you&qid=1592327691&sprefix=the+startup+of+%2Caps%2C140&sr=8-1)
 - [x] [Talk Like TED: The 9 Public Speaking Secrets of the World's Top Minds - Carmine Gallo](https://www.amazon.co.uk/Talk-Like-TED-Speaking-Secrets/dp/1509867392/ref=sr_1_1?crid=3LOAP1BREAMT9&dchild=1&keywords=talk+like+ted&qid=1592328263&sprefix=Talk+like+%2Caps%2C137&sr=8-1)
 - [x] [Jony Ive: The Genius Behind Apple’s Greatest Products - Leander Kahney](https://www.amazon.co.uk/Jony-Ive-Genius-Greatest-Products/dp/0670923249/ref=sr_1_1?crid=1WEQKU9WKTY5K&dchild=1&keywords=jony+ive&qid=1592328332&sprefix=Jony+Ive%2Caps%2C138&sr=8-1)
+- [x] [What Money Can't Buy: The Moral Limits of Markets - Michael J. Sandel](https://www.amazon.co.uk/What-Money-Cant-Buy-Markets/dp/0241954487/ref=sr_1_1?crid=16BCR42F9OP88&dchild=1&keywords=what+money+cant+buy+michael+sandel&qid=1630947478&sprefix=What+money+c%2Caps%2C214&sr=8-1)
+- [x] [I Think, Therefore I Am:  All the Philosophy You Need to Know - Lesley Levene](https://www.amazon.co.uk/Think-Therefore-Am-Philosophy-Need-ebook/dp/B004C04QY0/ref=sr_1_1?dchild=1&keywords=I+think%2C+therefore+I+AM&qid=1630947433&sr=8-1)
+- [x] [Think: A Compelling Introduction to Philosophy - Simon Blackburn](https://www.amazon.co.uk/Think-Compelling-Introduction-Simon-Blackburn/dp/0192854259/ref=sr_1_1?crid=1MZT9K0LWASR7&dchild=1&keywords=think+blackburn&qid=1630947363&sprefix=Think+Black%2Caps%2C731&sr=8-1)
+- [x] [My Brief History - Stephen Hawking](https://www.amazon.co.uk/My-Brief-History-Stephen-Hawking/dp/0857502638/ref=sr_1_1?crid=1BDU4P2WNETE4&dchild=1&keywords=stephen+hawking+my+brief+history&qid=1630947344&sprefix=my+brief+history+step%2Caps%2C239&sr=8-1)
+- [x] [Reasons To Stay Alive - Matt Haig](https://www.amazon.co.uk/Reasons-Stay-Alive-Matt-Haig/dp/1782116826/ref=sr_1_1?crid=FJ15YHCBO1GR&dchild=1&keywords=reasons+to+stay+alive+matt+haig&qid=1630947317&sprefix=Reasons+to%2Caps%2C226&sr=8-1)
+- [x] [The Untold History of the United States  - Oliver Stone & Peter Kuznick](https://www.amazon.co.uk/Untold-History-United-States/dp/1529102987/ref=sr_1_3?dchild=1&keywords=The+Untold+History+of+the+United+States+-+Oliver+Stone+%26+Peter+Kuznick&qid=1630947043&sr=8-3)
+ 
 
 ### Fiction
 
@@ -224,3 +234,9 @@ Holger Rathgeber](https://www.amazon.co.uk/Our-Iceberg-Melting-Succeeding-Condit
 - [x] [Animal Farm - George Orwell](https://www.amazon.co.uk/Animal-Farm-Fairy-Penguin-Essentials/dp/0141036133/ref=asc_df_0141036133/?tag=googshopuk-21&linkCode=df0&hvadid=310817467131&hvpos=&hvnetw=g&hvrand=10127575303980811505&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044965&hvtargid=pla-435192498891&psc=1&th=1&psc=1)
 - [x] [The Glass Bead Game - Herman Hesse](https://www.amazon.co.uk/Magister-Ludi-Glass-Bead-Game/dp/0553262378/ref=sr_1_2?crid=3KA5DIH1I7CPN&dchild=1&keywords=the+glass+bead+game&qid=1592328409&sprefix=the+glass+be%2Caps%2C135&sr=8-2)
 - [x] [1984 - George Orwell](https://www.amazon.co.uk/Nineteen-Eighty-Four-Penguin-Modern-Classics/dp/014118776X/ref=sr_1_1?crid=3FMZ5YZU9JG18&dchild=1&keywords=1984&qid=1593193491&s=books&sprefix=1984%2Caps%2C135&sr=1-1)
+- [x] [Salmon Fishing in the Yemen - Paul Torday](https://www.amazon.co.uk/Salmon-Fishing-Yemen-Torday-Paul/dp/B00DO8SBW4/ref=sr_1_2?dchild=1&keywords=salmon+fishing+in+the+yemen+-+paul+torday&qid=1630946924&sr=8-2)
+- [x] [The Reluctant Fundamentalist - Moshin Hamid](https://www.amazon.co.uk/Reluctant-Fundamentalist-Penguin-Essentials/dp/0241981387/ref=sr_1_2?dchild=1&keywords=The+Reluctant+Fundamentalist+-+Moshin+Hamid&qid=1630946850&sr=8-2)
+- [x] [I Am Pilgrim - Terry Hayes](https://www.amazon.co.uk/Am-Pilgrim-bestselling-Richard-Judy/dp/0552160962/ref=sr_1_1?crid=3NAUMKLCWQ6FG&dchild=1&keywords=i+am+pilgrim&qid=1630946725&sprefix=I+am+P%2Caps%2C835&sr=8-1)
+- [x] [Passage - Connie Willis](https://www.amazon.co.uk/Passage-Connie-Willis/dp/0553111248/ref=sr_1_1?dchild=1&keywords=Passage+connie&qid=1630946797&sr=8-1)
+- [x] [Foundation (Series) - Isaac Asimov](https://www.amazon.co.uk/isaac-asimov-foundation-books-collection/dp/9123654082/ref=sr_1_3?dchild=1&keywords=foundation+isaac+asimov&qid=1630946641&sr=8-3)
+- [x] [The Lord of the Rings (Trilogy) - J.R.R. Tolkien](https://www.amazon.co.uk/Rings-Tolkien-Fellowship-Towers-Return/dp/9124095397/ref=sr_1_3?crid=2ZOWANAX4GZ2P&dchild=1&keywords=the+lord+of+the+rings+book+set&qid=1630947815&sprefix=the+lor%2Caps%2C278&sr=8-3) 
