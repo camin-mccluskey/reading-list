@@ -3,6 +3,7 @@
 
 - [ ] [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.co.uk/Godel-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?crid=T4V3YVMQAHY0&dchild=1&keywords=godel+escher+bach&qid=1605484818&sprefix=godel+e%2Caps%2C176&sr=8-1)
 - [ ] [Cynical Theories - Helen Pluckrose & James Lindsay](https://www.amazon.co.uk/Cynical-Theories-Scholarship-Everything-Identity/dp/1634312023)
+- [ ] [Ulysess - James Joyce](https://www.amazon.co.uk/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A00091362MG51UQ8L4A34&url=%2FUlysses-James-Joyce%2Fdp%2F1727252136%2Fref%3Dsr_1_1_sspa%3Fcrid%3D20F3C8O6Z944%26dchild%3D1%26keywords%3Dulysses%2Bjames%2Bjoyce%26qid%3D1630947711%26sprefix%3Dulys%252Caps%252C234%26sr%3D8-1-spons%26psc%3D1&qualifier=1630947711&id=1403585439723835&widgetName=sp_atf) - My companion [guide](https://camin.xyz/ulysses-companion/)
 
 
 ## Will Read
@@ -98,7 +99,6 @@
 - [ ] [The Beautiful and The Damned - F. Scott Fitzgerald](https://www.amazon.co.uk/Beautiful-Penguin-Fitzgerald-Hardback-Collection/dp/0141194073/ref=sr_1_3?crid=31MQATJUDWIIK&dchild=1&keywords=the+beautiful+and+the+damned&qid=1592173756&s=books&sprefix=the+beautiful+and+%2Cstripbooks%2C134&sr=1-3)
 - [ ] [The Hitchhiker's Guide to the Galaxy - Douglas Adams](https://www.amazon.co.uk/Hitchhikers-Guide-Galaxy-Omnibus-Trilogy/dp/1509852794/ref=sr_1_2?crid=19WJZXJ9DPPYN&dchild=1&keywords=the+hitchhiker%27s+guide+to+the+galaxy&qid=1593719940&sprefix=the+hitchhiker%27s+guide+to+the+galaxy+kindle%2Caps%2C133&sr=8-2)
 - [ ] [Submission - Miichel Houellebecq](https://www.amazon.co.uk/Submission-Michel-Houellebecq/dp/1784702056/ref=sr_1_1?dchild=1&keywords=submission+-+michael+houellebecq&qid=1600429709&sr=8-1)
-- [ ] [Ulysess - James Joyce](https://www.amazon.co.uk/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A00091362MG51UQ8L4A34&url=%2FUlysses-James-Joyce%2Fdp%2F1727252136%2Fref%3Dsr_1_1_sspa%3Fcrid%3D20F3C8O6Z944%26dchild%3D1%26keywords%3Dulysses%2Bjames%2Bjoyce%26qid%3D1630947711%26sprefix%3Dulys%252Caps%252C234%26sr%3D8-1-spons%26psc%3D1&qualifier=1630947711&id=1403585439723835&widgetName=sp_atf)
 - [ ] [Dubliners - James Joyce](https://www.amazon.co.uk/Dubliners-Penguin-Modern-Classics-James/dp/0141182458/ref=sr_1_1?dchild=1&keywords=dubliners+james+joyce&qid=1630947740&sr=8-1)
 - [ ] [A Portrait of the Artist as a Young Man - James Joyce](https://www.amazon.co.uk/Portrait-Artist-Penguin-Modern-Classics/dp/0141182660/ref=sr_1_1?crid=GM8L8V7RZHDX&dchild=1&keywords=a+portrait+of+the+artist+as+a+young+man&qid=1630947756&sprefix=a+port%2Caps%2C362&sr=8-1)
 
