@@ -3,7 +3,7 @@
 
 - [ ] [Godel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.amazon.co.uk/Godel-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?crid=T4V3YVMQAHY0&dchild=1&keywords=godel+escher+bach&qid=1605484818&sprefix=godel+e%2Caps%2C176&sr=8-1)
 - [ ] [Cynical Theories - Helen Pluckrose & James Lindsay](https://www.amazon.co.uk/Cynical-Theories-Scholarship-Everything-Identity/dp/1634312023)
-- [ ] [Ulysess - James Joyce](https://www.amazon.co.uk/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A00091362MG51UQ8L4A34&url=%2FUlysses-James-Joyce%2Fdp%2F1727252136%2Fref%3Dsr_1_1_sspa%3Fcrid%3D20F3C8O6Z944%26dchild%3D1%26keywords%3Dulysses%2Bjames%2Bjoyce%26qid%3D1630947711%26sprefix%3Dulys%252Caps%252C234%26sr%3D8-1-spons%26psc%3D1&qualifier=1630947711&id=1403585439723835&widgetName=sp_atf) - My companion [guide](https://camin.xyz/ulysses-companion/)
+- [ ] [Ulysess - James Joyce](https://www.amazon.co.uk/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A00091362MG51UQ8L4A34&url=%2FUlysses-James-Joyce%2Fdp%2F1727252136%2Fref%3Dsr_1_1_sspa%3Fcrid%3D20F3C8O6Z944%26dchild%3D1%26keywords%3Dulysses%2Bjames%2Bjoyce%26qid%3D1630947711%26sprefix%3Dulys%252Caps%252C234%26sr%3D8-1-spons%26psc%3D1&qualifier=1630947711&id=1403585439723835&widgetName=sp_atf) - Using my companion [guide](https://camin.xyz/ulysses-companion/)
 
 
 ## Will Read
